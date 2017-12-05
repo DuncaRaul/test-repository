@@ -1,4 +1,4 @@
-package ro.springhotel;
+package ro.springhotel.SpringHotel;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

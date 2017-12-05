@@ -1,4 +1,4 @@
-package ro.springhotel;
+package ro.springhotel.SpringHotel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
